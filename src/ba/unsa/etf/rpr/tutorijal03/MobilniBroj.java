@@ -8,7 +8,7 @@ public class MobilniBroj extends TelefonskiBroj {
         this.mobilnaMreza=mobilnaMreza;
         this.broj=broj;
     }
-    /*String ispisi(){
+    String ispisi(){
         return null;
-    }*/
+    }
 }

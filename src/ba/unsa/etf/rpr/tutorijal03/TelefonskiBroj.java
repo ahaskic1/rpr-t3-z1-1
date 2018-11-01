@@ -5,10 +5,10 @@ public abstract class  TelefonskiBroj {
 
 	public abstract String ispisi();
 	@Override
-	public abstract int hashCode();
+	/*public abstract int hashCode();
 	@Override
 	public abstract boolean equals(Object o);
-	public abstract String dajBroj();
+	public abstract String dajBroj();*/
 }
 
 

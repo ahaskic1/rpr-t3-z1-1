@@ -8,9 +8,8 @@ public class MedunarodniBroj extends TelefonskiBroj {
         this.drzava=drzava;
         this.broj=broj;
     }
-    String ispisi()
-    {
-
+    String ispisi() {
+        return null;
     }
 
 }
